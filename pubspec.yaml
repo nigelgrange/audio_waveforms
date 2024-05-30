@@ -25,4 +25,6 @@ flutter:
         pluginClass: AudioWaveformsPlugin
       ios:
         pluginClass: AudioWaveformsPlugin
+      macos:
+        pluginClass: AudioWaveformsPlugin
 
